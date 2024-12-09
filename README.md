@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/umar-aslam-khan-944537263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umar-aslam-khan-944537263/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@umarkhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@umarkhann" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@umarkhann" target="blank">
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umarkhan-ittechnition&show_icons=true&locale=en&layout=compact" alt="umarkhan-ittechnition" /></p>
