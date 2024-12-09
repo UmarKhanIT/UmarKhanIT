@@ -1,4 +1,4 @@
-<h1 align="center">✨ Mohd Umar Khan ✨</h1>
+<h1 align="center">✨ Mohd.Umar Khan ✨</h1>
 <h3 align="center">PC Technician | Troubleshooter | IT Support Specialist</h3>
 
 <p align="center">
